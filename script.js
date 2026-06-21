@@ -11,7 +11,7 @@ document.getElementById('myForm').addEventListener( 'submit' , function(a) {
 		`First Name: ${f} ` +
 		`Last Name: ${l} ` +
 		`Phone Number: ${p} ` +
-		`Email ID: ${e} ` +
+		`Email ID: ${e} ` 
 	);
 	
 });
